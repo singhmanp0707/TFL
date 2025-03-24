@@ -209,10 +209,6 @@
       "groupChat": {
         "common": [
           {
-            "id": "56090f04-7a13-4b6a-91db-7422c140d728",
-            "state": "PreConsented"
-          },
-          {
             "id": "d39733aa-427f-4b24-85f3-091981dc5a49",
             "state": "PreConsented"
           },
